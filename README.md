@@ -74,3 +74,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 git remote add origin https://github.com/ENI-ECOLE-INFORMATIQUE/RCDA_013_TPGitAutomation02.git
 git branch -M main
 git push -u origin main
+samir
